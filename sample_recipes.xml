@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+    <recipe>
+        <id>1</id>
+        <title>Sample Chocolate Chip Cookies</title>
+        <ingredients>2 cups flour, 1 cup sugar, 1/2 cup butter, 2 eggs, 1 cup chocolate chips</ingredients>
+        <steps>1. Preheat oven to 375°F
+2. Mix dry ingredients
+3. Cream butter and sugar
+4. Add eggs and mix
+5. Fold in chocolate chips
+6. Bake for 10-12 minutes</steps>
+        <image_path></image_path>
+        <created_at>2024-01-01 00:00:00</created_at>
+        <updated_at>2024-01-01 00:00:00</updated_at>
+    </recipe>
+    <recipe>
+        <id>2</id>
+        <title>Sample Spaghetti Carbonara</title>
+        <ingredients>1 lb spaghetti, 4 eggs, 1 cup parmesan cheese, 6 slices bacon, black pepper</ingredients>
+        <steps>1. Cook spaghetti according to package directions
+2. Cook bacon until crispy
+3. Mix eggs and cheese
+4. Toss hot pasta with bacon
+5. Add egg mixture and toss quickly
+6. Season with black pepper</steps>
+        <image_path></image_path>
+        <created_at>2024-01-01 00:00:00</created_at>
+        <updated_at>2024-01-01 00:00:00</updated_at>
+    </recipe>
+</recipes>
+
