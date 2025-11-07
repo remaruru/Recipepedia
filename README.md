@@ -284,7 +284,7 @@ Recipedia/
 
 This project is created for educational purposes.
 
-## 👨‍💻 Authors - Group 4
+## 👨‍💻 Authors
 
 - **Arrogante Fritz**
 - **Earl Angelo Roldan**
