@@ -284,7 +284,12 @@ Recipedia/
 
 This project is created for educational purposes.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors - Group 4
+
+- **Arrogante Fritz**
+- **Earl Angelo Roldan**
+- **Enzo Benedict Rosales**
+- **Maria Cielo Salazar**
 
 Created as a demonstration project for web services and database integration.
 
