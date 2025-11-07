@@ -291,7 +291,7 @@ This project is created for educational purposes.
 - **Enzo Benedict Rosales**
 - **Maria Cielo Salazar**
 
-Created as a demonstration project for web services and database integration.
+Created as a SIA final project.
 
 ## 🙏 Acknowledgments
 
